@@ -11,6 +11,8 @@
 ### Разработки
 * [HTML Layout kit](https://github.com/SuhushinAS/html-layout-kit)
 * [React Starter kit](https://github.com/SuhushinAS/react-starter-kit)
+* [Frontend Best Practices](https://github.com/SuhushinAS/best-practices)
+* [Design Checklist](https://github.com/SuhushinAS/design-checklist)
 
 ### CodePen
 * [Визуализация работы событий](https://codepen.io/SuhushinAS/pen/QWyEwow)
